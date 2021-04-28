@@ -1,0 +1,1 @@
+# pictik_customer_app
